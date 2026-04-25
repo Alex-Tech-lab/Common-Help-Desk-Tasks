@@ -5,6 +5,10 @@
 ![Cost](https://img.shields.io/badge/Estimated%20Cost-%240-brightgreen?style=flat-square)
  
 ---
+
+Video Lab Link: https://www.loom.com/share/e7dc831796d64c0b96a2f166fc5894b2
+
+---
  
 ## Overview
  
