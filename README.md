@@ -1,7 +1,6 @@
 # Lab 03: Security Groups · Group Policy Objects · Enforcement
  
 ![Platform](https://img.shields.io/badge/Platform-Windows%20Server%202025-blue?style=flat-square)
-![Prereq](https://img.shields.io/badge/Prereq-Steps%201--5%20complete-lightgrey?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-45--90%20min-orange?style=flat-square)
 ![Cost](https://img.shields.io/badge/Estimated%20Cost-%240-brightgreen?style=flat-square)
  
